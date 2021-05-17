@@ -1,9 +1,4 @@
-/*
- * Project 3
- * Class: CSCI 1913, Spring 2021, Section 10
- * Professor: Jerald Thomas
- * Student: ali00159
- */
+
 
 public class GraphDataStructure <T> implements GraphInterface <T> {
 
