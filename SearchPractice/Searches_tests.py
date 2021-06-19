@@ -75,5 +75,5 @@ word = find_next_word_binary(words, "tra")
 assert word == "trace", f"Failed test: {word} should be trace"
 
 
-# Keep this at the bottom
+# If it all worked out
 print("It worked!!!")
